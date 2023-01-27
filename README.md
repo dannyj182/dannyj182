@@ -91,7 +91,7 @@
 
 <div align='center'>
 
-## <b>If you can imagine it, you can program it💻</b>
+## If you can imagine it, you can program it💻
 
 </div>
 
