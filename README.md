@@ -1,7 +1,7 @@
 <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/Banner%20Github%20V3.png">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Analyst+Student,;Passionate+About+Technology,;Active+Learner/Researcher,;Love+to+learn+new+frameworks...❤️"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Analyst,;Passionate+About+Technology,;Active+Learner/Researcher,;Love+to+learn+new+frameworks...❤️"></a>
 </p>
 
 ## <picture><img src = "https://github.com/dannyj182/dannyj182/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
