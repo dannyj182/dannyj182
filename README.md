@@ -10,7 +10,7 @@
 
 <br>
 
-- Currently studying Systems Analyst at the ORT Institute of Technology.
+- Systems Analyst graduate from the ORT Institute of Technology.
 - In my spare time I like to play video games🎮 and do sports, especially running🏃.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/dannyjimenezcasares/)📄.
 
@@ -29,6 +29,9 @@
     
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/java.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/csharp.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/kotlin.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/js.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/typescript.png" width ="50">
 
     
 - **Front-End Development**:
@@ -36,13 +39,16 @@
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/html.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/css.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/js.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/react.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/angular.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/vue.png" width ="50">
-    
+
 
 - **Back-End Development**:
 
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/node.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/express.png" width ="50"> 
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/spring.png" width ="50"> 
 
 
 - **Databases**:
@@ -57,12 +63,15 @@
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/github.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/visual-studio-code.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/visualstudio.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/IntelliJ.png" width ="50">
     <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/postman.png" width ="50">
 
 
 - **Extras**:
 
-    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/markdown.png" width ="50">  
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/markdown.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/hibernate.png" width ="50">
+    <img src="https://github.com/dannyj182/dannyj182/raw/main/assets/images/docker.png" width ="50">
 
 
 </p>
